@@ -1,5 +1,11 @@
 ### Hi there 👋
 #### 🌱 I’m currently learning JavaScript to become a webdeveloper.
+
+📫 Send me a message at: v.buschwallace@yahoo.com
+
+Some of my favorite quotes:
+"In discomfort there is growth." - unknown
+
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
