@@ -7,15 +7,16 @@
 
 About me:
 
-Name: Viviane Wei Busch-Wallace
-Age: 
+* Name: Viviane Wei Busch-Wallace
+* Age: 
+```javascript
 const myAge = () => new Date().getFullYear() - 1990;
-console.log(myAge());
-Nationality: :de:(and half :cn:)
-:house: My home: Hamburg, Germany
+console.log(myAge());```
+* Nationality: :de:(and half :cn:)
+* :house: My home: Hamburg, Germany
 
-Some of my favorite quotes:
-"In discomfort there is growth." - unknown
+* Some of my favorite quotes:
+..* "In discomfort there is growth." - unknown
 
 :pencil2: What I've worked on so far:
 
