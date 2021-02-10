@@ -11,7 +11,8 @@ About me:
 * Age: 
 ```javascript
 const myAge = () => new Date().getFullYear() - 1990;
-console.log(myAge());```
+console.log(myAge());
+```
 * Nationality: :de:(and half :cn:)
 * :house: My home: Hamburg, Germany
 
