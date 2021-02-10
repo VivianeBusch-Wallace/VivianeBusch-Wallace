@@ -3,9 +3,9 @@
 
 📫 Send me a message at: v.buschwallace@yahoo.com
 
-:point_right: Find me on [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)
+:point_right: My [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)
 
-About me:
+#### About me:
 
 * Name: Viviane Wei Busch-Wallace
 * Age: 
@@ -15,13 +15,14 @@ console.log(myAge());
 ```
 * Nationality: :de:(and half :cn:)
 * :house: My home: Hamburg, Germany
-
+* Hobbies: getting creative :art:, boardgames with friends :game_die:
 * Some of my favorite quotes:
-..* "In discomfort there is growth." - unknown
+> "In discomfort there is growth." - unknown
 
 :pencil2: What I've worked on so far:
 
-A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
+* A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
+* 
 
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
