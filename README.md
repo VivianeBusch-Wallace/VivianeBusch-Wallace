@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 🌱 I’m currently learning JavaScript to become a webdeveloper.
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
