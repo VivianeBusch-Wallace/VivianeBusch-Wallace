@@ -3,6 +3,8 @@
 
 📫 Send me a message at: v.buschwallace@yahoo.com
 
+:point_right: Find me on [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)
+
 Some of my favorite quotes:
 "In discomfort there is growth." - unknown
 
