@@ -22,7 +22,7 @@ console.log(myAge());
 :pencil2: What I've worked on so far:
 
 * A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
-* 
+* A [vowel counter](https://github.com/VivianeBusch-Wallace/vowelCounter)
 
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
