@@ -1,12 +1,15 @@
 ### Hi there 👋
-#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning JavaScript to become a webdeveloper.
+#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning JavaScript at the Digital Career Institute to become a webdeveloper.
+I love to learn new things and find out how stuff works. Although I don't come from an IT background, I am having lots of fun studying web development right now.
+After having spent some years in China, I now live together with my husband and dog in Hamburg, Germany.
 
 :point_right: My [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)
 
-#### More about me:
+#### Some more stuff about me:
 
 * Nationality: :de: (and half :cn:)
 * :house: My home: Hamburg, Germany
+* Languages I speak: German, English, some Chinese
 * Hobbies: getting creative :art:, boardgames with friends :game_die:
 * Some of my favorite quotes:
 > "In discomfort there is growth." - unknown
