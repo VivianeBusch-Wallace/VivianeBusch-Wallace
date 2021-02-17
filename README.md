@@ -1,19 +1,11 @@
 ### Hi there 👋
-#### 🌱 I’m currently learning JavaScript to become a webdeveloper.
-
-📫 Send me a message at: v.buschwallace@yahoo.com
+#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning JavaScript to become a webdeveloper.
 
 :point_right: My [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)
 
-#### About me:
+#### More about me:
 
-* Name: Viviane Wei Busch-Wallace
-* Age: 
-```javascript
-const myAge = () => new Date().getFullYear() - 1990;
-console.log(myAge());
-```
-* Nationality: :de:(and half :cn:)
+* Nationality: :de: (and half :cn:)
 * :house: My home: Hamburg, Germany
 * Hobbies: getting creative :art:, boardgames with friends :game_die:
 * Some of my favorite quotes:
@@ -23,6 +15,9 @@ console.log(myAge());
 
 * A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
 * A [vowel counter](https://github.com/VivianeBusch-Wallace/vowelCounter)
+
+
+📫 To send me a message: v.buschwallace@yahoo.com
 
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
