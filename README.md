@@ -19,6 +19,7 @@ After having spent some years in China, I now live together with my husband and 
 * A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
 * A [vowel counter](https://github.com/VivianeBusch-Wallace/vowelCounter)
 * A simple app to calculate your Chinese zodiac sign. Wanna find your Chinese zodiac sign? Click [here](https://github.com/VivianeBusch-Wallace/chineseZodiac)
+* A small [image gallery](https://vivianebusch-wallace.github.io/image-gallery/) of the ocean
 
 
 📫 To send me a message: v.buschwallace@yahoo.com
