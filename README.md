@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning JavaScript at the Digital Career Institute to become a webdeveloper.
+#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning web development at the Digital Career Institute to become a webdeveloper.
 I love to learn new things and find out how stuff works. Although I don't come from an IT background, I am having lots of fun studying web development right now.
 After having spent some years in China, I now live together with my husband and dog in Hamburg, Germany.
 
@@ -18,7 +18,7 @@ After having spent some years in China, I now live together with my husband and 
 
 * A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
 * A [vowel counter](https://github.com/VivianeBusch-Wallace/vowelCounter)
-* A simple app to calculate your Chinese zodiac sign. Wanna find your Chinese zodiac sign? Click [here](https://github.com/VivianeBusch-Wallace/chineseZodiac)
+* A simple app to calculate your Chinese zodiac sign. Wanna find your Chinese zodiac sign? Click [here](https://github.com/VivianeBusch-Wallace/chineseZodiac).
 * A small [image gallery](https://vivianebusch-wallace.github.io/image-gallery/) of the ocean
 
 
