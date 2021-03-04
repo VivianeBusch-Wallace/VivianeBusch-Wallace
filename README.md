@@ -13,6 +13,7 @@ After having spent some years in China, I now live together with my husband and 
 * Hobbies: getting creative :art:, boardgames with friends :game_die:
 * Some of my favorite quotes:
 > "In discomfort there is growth." - unknown
+> "Actions speak louder than words." - proverb
 
 :pencil2: What I've worked on so far:
 
