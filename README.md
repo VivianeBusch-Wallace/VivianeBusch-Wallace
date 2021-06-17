@@ -1,4 +1,5 @@
 ### Hi there 👋
+ 
 #### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning web development at the Digital Career Institute to become a webdeveloper.
 I love to learn new things and find out how stuff works. Although I don't come from an IT background, I am having lots of fun studying web development right now.
 After having spent some years in China, I now live together with my husband and dog in Hamburg, Germany.
@@ -26,6 +27,8 @@ After having spent some years in China, I now live together with my husband and 
 
 
 📫 To send me a message: v.buschwallace@yahoo.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeBusch-Wallace&show_icons=true&title_color=05668D&text_color=05668D&bg_color=100,FF6392,FFE45E,7BF1A8&icon_color=05668D&border_color=05668D)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VivianeBusch-Wallace/VivianeBusch-Wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
