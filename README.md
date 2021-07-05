@@ -25,8 +25,8 @@ After having spent some years in China, I now live together with my husband and 
 * A small [image gallery](https://vivianebusch-wallace.github.io/image-gallery/) of the ocean
 * A [periodic table](https://vivianebusch-wallace.github.io/periodic-table/)
 
-
-📫 To send me a message: v.buschwallace@yahoo.com
+<!--
+📫 To send me a message: v.buschwallace@yahoo.com -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianeBusch-Wallace&show_icons=true&title_color=05668D&text_color=05668D&bg_color=100,FF6392,FFE45E,7BF1A8&icon_color=05668D&border_color=05668D)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeBusch-Wallace&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
