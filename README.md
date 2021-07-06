@@ -24,9 +24,6 @@ What I am learning to use:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-
-Contact me :point_right: [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)   [<img src="https://dev.xing.com/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" width="30px">](https://www.xing.com/profile/VivianeWei_BuschWallace/cv)
-
 #### Some more stuff about me:
 
 * Nationality: :de: (and half :cn:)
@@ -45,6 +42,10 @@ Contact me :point_right: [LinkedIn](https://www.linkedin.com/in/viviane-busch-wa
 * A simple app to calculate your Chinese zodiac sign. Wanna find your Chinese zodiac sign? Click [here](https://github.com/VivianeBusch-Wallace/chineseZodiac).
 * A small [image gallery](https://vivianebusch-wallace.github.io/image-gallery/) of the ocean
 * A [periodic table](https://vivianebusch-wallace.github.io/periodic-table/)
+
+
+Contact me :point_right: [LinkedIn](https://www.linkedin.com/in/viviane-busch-wallace-68a117179/)   [<img src="https://dev.xing.com/assets/xws/dev/logo_rules/XNG_Sharebutton_v02-80d4fefd22918014c17b635c67390054a5933ed51c4a075b00f5dc69b4cb96d9.png" width="30px">](https://www.xing.com/profile/VivianeWei_BuschWallace/cv)
+
 
 <!--
 📫 To send me a message: v.buschwallace@yahoo.com -->
