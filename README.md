@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning web development at the Digital Career Institute to become a webdeveloper.
+#### 🌱 My name is Viviane Wei Busch-Wallace and I’m currently learning web development at the Digital Career Institute to become a fullstack web developer.
 I love to learn new things and find out how stuff works. Although I don't come from an IT background, I am having lots of fun studying web development right now.
 After having spent some years in China, I now live together with my husband and dog in Hamburg, Germany.
 
