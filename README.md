@@ -34,6 +34,7 @@ Tools I am using and learning to use:
 
 :pencil2: Feel free to check out some of the projects I have been working. You can find more in my repositories, but here are some examples:
 
+* A group project > a [movie library](https://github.com/VivianeBusch-Wallace/TMDB-movie-library)
 * A random [password generator](https://github.com/VivianeBusch-Wallace/passwordGenerator)
 * A [vowel counter](https://github.com/VivianeBusch-Wallace/vowelCounter)
 * A simple app to calculate your Chinese zodiac sign. Wanna find your Chinese zodiac sign? Click [here](https://github.com/VivianeBusch-Wallace/chineseZodiac).
