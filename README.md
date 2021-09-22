@@ -30,6 +30,8 @@ Tools I am using and learning to use:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
+List of [packages](https://github.com/Fbw-48/live-coding/blob/main/ALLPACKAGES.md) from the DCI curriculum.
+
 #### Projects
 
 :pencil2: Feel free to check out some of the projects I have been working. You can find more in my repositories, but here are some examples:
